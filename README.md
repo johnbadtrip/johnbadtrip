@@ -39,7 +39,7 @@
 ### 📫 Como me Encontrar
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/john-markko-862b11152](?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5wHRnzQPRumLOF89V8mq8A%3D%3D)" target="_blank">
+  <a href="https://www.linkedin.com/in/john-markko-862b11152"(?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5wHRnzQPRumLOF89V8mq8A%3D%3D)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:markko.john62@gmail.com">
